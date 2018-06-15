@@ -1,5 +1,7 @@
 # XIP
 
+[![Build Status](https://travis-ci.org/immunIT/XIP.svg?branch=master)](https://travis-ci.org/immunIT/XIP)
+
 ## Description
 
 XIP generates a list of IP addresses by applying a set of transformations used to bypass security measures e.g. blacklist filtering, WAF, etc.
