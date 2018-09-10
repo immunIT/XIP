@@ -8,6 +8,8 @@ XIP generates a list of IP addresses by applying a set of transformations used t
 
 [![asciicast](https://asciinema.org/a/bQ51BOhJcFMM9glz9Sky7FExm.png)](https://asciinema.org/a/bQ51BOhJcFMM9glz9Sky7FExm)
 
+Further explaination on our [blog post article](https://www.immunit.ch/blog/2018/09/02/xip-ip-addresses-mutation/)
+
 ## Usage
 
 ```bash
